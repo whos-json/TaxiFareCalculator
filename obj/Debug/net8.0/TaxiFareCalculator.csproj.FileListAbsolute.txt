@@ -1,0 +1,14 @@
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\bin\Debug\net8.0\TaxiFareCalculator.exe
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\bin\Debug\net8.0\TaxiFareCalculator.deps.json
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\bin\Debug\net8.0\TaxiFareCalculator.runtimeconfig.json
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\bin\Debug\net8.0\TaxiFareCalculator.dll
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\bin\Debug\net8.0\TaxiFareCalculator.pdb
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.AssemblyInfoInputs.cache
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.AssemblyInfo.cs
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.dll
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\refint\TaxiFareCalculator.dll
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.pdb
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\TaxiFareCalculator.genruntimeconfig.cache
+C:\Users\jus\Downloads\c# projects\TaxiFareCalculator\obj\Debug\net8.0\ref\TaxiFareCalculator.dll
